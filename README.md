@@ -10,3 +10,7 @@ Contract address: `0x3A146E3EFB59567366b0C94fFfa97273736Adbb1`
 ### :white_circle: Useful links
 
 :heavy_minus_sign: [Block explorer](https://bscscan.com/token/0x3A146E3EFB59567366b0C94fFfa97273736Adbb1)
+
+:heavy_minus_sign: [Trade on Pancakeswap](https://pancakeswap.finance/swap?outputCurrency=0x3A146E3EFB59567366b0C94fFfa97273736Adbb1)
+
+:heavy_minus_sign: [White paper](https://wp.matrixbot.io/)
