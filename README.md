@@ -1,7 +1,7 @@
 ![header](images/header.png)
 
-| [![telegram](images/btn/telegram.png)](https://t.me/matrixbotio_eng)  | Second Header |
-| ------------- | ------------- |
+| [![telegram](images/btn/telegram.png)](https://t.me/matrixbotio_eng)  | [![twitter](images/btn/twitter.png)](https://twitter.com/Matrixbotio) | [![website](images/btn/website.png)](https://matrixbot.io) |
+| ------------- | ------------- | ------------- |
 
 Interest in cryptocurrencies and investment volumes are constantly growing. Easy and profitable ways to place crypto assets are limited, high volatility creates fear. At the same time, investors expect significant profit from cryptocurrency investments. Our platform offers a solution for these users, allowing them to earn passive income through bots, advisory and education services.
 
