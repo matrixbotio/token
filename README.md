@@ -9,5 +9,5 @@ Contract address: `0x3A146E3EFB59567366b0C94fFfa97273736Adbb1`
 
 ### :white_circle: Useful links
 
-1. Block explorer
+1. [Block explorer](https://bscscan.com/token/0x3A146E3EFB59567366b0C94fFfa97273736Adbb1)
 2. 
