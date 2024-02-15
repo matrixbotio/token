@@ -3,8 +3,4 @@
 | [![telegram](images/btn/telegram.png)](https://t.me/matrixbotio_eng)  | [![twitter](images/btn/twitter.png)](https://twitter.com/Matrixbotio) | [![website](images/btn/website.png)](https://matrixbot.io) |
 | ------------- | ------------- | ------------- |
 
-Interest in cryptocurrencies and investment volumes are constantly growing. Easy and profitable ways to place crypto assets are limited, high volatility creates fear. At the same time, investors expect significant profit from cryptocurrency investments. Our platform offers a solution for these users, allowing them to earn passive income through bots, advisory and education services.
-
-MatrixBot is a platform that allows you to launch trading bots created by experienced traders or on your own in a convenient bot builder in two clicks. While you are resting, bots earn money: knowledge and experience are monetized.
-
-> MTXB tokens were created in 2023 for the purpose of being used on MatrixBot platform.
+> MTXB token is powering the project's ecosystem and uses as long-term funding. The token will be used with a several of useful features, that will expand as the project develops. The total supply is limited to 1 billion, has the most transparent distribution and long-term goals.
